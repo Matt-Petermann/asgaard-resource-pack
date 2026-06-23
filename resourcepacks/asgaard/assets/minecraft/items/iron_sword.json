@@ -5,7 +5,7 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "Custom",
+        "when": "Dagger",
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/custom_sword"
